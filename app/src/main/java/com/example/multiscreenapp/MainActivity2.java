@@ -17,6 +17,6 @@ private TextView textView;
         textView = findViewById(R.id.textView2);
         Intent intent = getIntent();
         String msg = intent.getStringExtra(MainActivity.EXTRA_NAME);
-        textView.setText("Your input is " + msg);
+        textView.setText(msg);
     }
 }

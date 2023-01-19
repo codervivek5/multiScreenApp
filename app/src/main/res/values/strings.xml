@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">multiScreenApp</string>
     <string name="click_here">click here</string>
-    <string name="write_something">write something</string>
-    <string name="enter_any_text">Enter any text</string>
+    <string name="write_something">write name here</string>
+    <string name="enter_any_text">Write any name</string>
+    <string name="output_of_first_activity">output of first activity</string>
+    <string name="todo">TODO</string>
+    <string name="wish_you">Wish You</string>
 </resources>
